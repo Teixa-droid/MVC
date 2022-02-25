@@ -1,0 +1,13 @@
+C:\Users\teixa\source\repos\IntroductionLayer\bin\Debug\IntroductionLayer.exe.config
+C:\Users\teixa\source\repos\IntroductionLayer\bin\Debug\IntroductionLayer.exe
+C:\Users\teixa\source\repos\IntroductionLayer\bin\Debug\IntroductionLayer.pdb
+C:\Users\teixa\source\repos\IntroductionLayer\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.csproj.AssemblyReference.cache
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.initial.resources
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.Login.resources
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.Properties.Resources.resources
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.csproj.GenerateResource.cache
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.csproj.CoreCompileInputs.cache
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.csproj.CopyComplete
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.exe
+C:\Users\teixa\source\repos\IntroductionLayer\obj\Debug\IntroductionLayer.pdb
